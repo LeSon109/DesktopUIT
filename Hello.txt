@@ -1,3 +1,5 @@
 <<<<<<< HEAD
 xin chào
 test GIT nhé
+------------------
+edit lấn 2
