@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-xin chào
-test GIT nhé
-------------------
-edit lấn 2
-------------------
-edit tại github
